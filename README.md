@@ -1,2 +1,3 @@
 # Competitive-Programming
-This repositoy includes competative programming platform codes solved by me. It is a subject submission.
+This repositoy includes competative programming platform codes solved by me. <br>
+It is a subject submission.
