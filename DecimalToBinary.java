@@ -18,7 +18,7 @@ public class DecimalToBinary {
         return i;
     }
 
-    public static void main(String[] args) {
+    public static void main(String[] github) {
         Scanner sc = new Scanner (System.in);
         int arr[] = new int [50];
         // In java arguments are passed by value and not by reference
