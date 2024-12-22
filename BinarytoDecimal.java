@@ -19,7 +19,8 @@ public class BinarytoDecimal {
         }
         return decNum;
     }
-    public static void main(String[] args) {
+    
+    public static void main(String[] github) {
         Scanner sc = new Scanner(System.in);
         System.out.print("\nEnter binary number: ");
         int binaryNum = sc.nextInt();
